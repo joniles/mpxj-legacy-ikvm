@@ -1,0 +1,183 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IKVM.Runtime.JNI/8.5.0.3": {
+        "dependencies": {
+          "IKVM.OpenJDK.Core": "8.5.0.3",
+          "IKVM.Runtime": "8.5.0.3"
+        },
+        "runtime": {
+          "IKVM.Runtime.JNI.dll": {}
+        }
+      },
+      "IKVM.OpenJDK.Core/8.5.0.3": {
+        "runtime": {
+          "IKVM.OpenJDK.Core.dll": {
+            "assemblyVersion": "8.5.0.3",
+            "fileVersion": "8.5.0.3"
+          }
+        }
+      },
+      "IKVM.Runtime/8.5.0.3": {
+        "runtime": {
+          "IKVM.Runtime.dll": {
+            "assemblyVersion": "8.5.0.3",
+            "fileVersion": "8.5.0.3"
+          }
+        }
+      },
+      "IKVM.OpenJDK.Util/8.5.0.3": {
+        "runtime": {
+          "IKVM.OpenJDK.Util.dll": {
+            "assemblyVersion": "8.5.0.3",
+            "fileVersion": "8.5.0.3"
+          }
+        }
+      },
+      "IKVM.OpenJDK.Text/8.5.0.3": {
+        "runtime": {
+          "IKVM.OpenJDK.Text.dll": {
+            "assemblyVersion": "8.5.0.3",
+            "fileVersion": "8.5.0.3"
+          }
+        }
+      },
+      "IKVM.OpenJDK.Security/8.5.0.3": {
+        "runtime": {
+          "IKVM.OpenJDK.Security.dll": {
+            "assemblyVersion": "8.5.0.3",
+            "fileVersion": "8.5.0.3"
+          }
+        }
+      },
+      "IKVM.OpenJDK.XML.API/8.5.0.3": {
+        "runtime": {
+          "IKVM.OpenJDK.XML.API.dll": {
+            "assemblyVersion": "8.5.0.3",
+            "fileVersion": "8.5.0.3"
+          }
+        }
+      },
+      "IKVM.OpenJDK.Naming/8.5.0.3": {
+        "runtime": {
+          "IKVM.OpenJDK.Naming.dll": {
+            "assemblyVersion": "8.5.0.3",
+            "fileVersion": "8.5.0.3"
+          }
+        }
+      },
+      "IKVM.OpenJDK.SwingAWT/8.5.0.3": {
+        "runtime": {
+          "IKVM.OpenJDK.SwingAWT.dll": {
+            "assemblyVersion": "8.5.0.3",
+            "fileVersion": "8.5.0.3"
+          }
+        }
+      },
+      "IKVM.OpenJDK.Beans/8.5.0.3": {
+        "runtime": {
+          "IKVM.OpenJDK.Beans.dll": {
+            "assemblyVersion": "8.5.0.3",
+            "fileVersion": "8.5.0.3"
+          }
+        }
+      },
+      "IKVM.OpenJDK.Media/8.5.0.3": {
+        "runtime": {
+          "IKVM.OpenJDK.Media.dll": {
+            "assemblyVersion": "8.5.0.3",
+            "fileVersion": "8.5.0.3"
+          }
+        }
+      },
+      "IKVM.AWT.WinForms/8.5.0.3": {
+        "runtime": {
+          "IKVM.AWT.WinForms.dll": {
+            "assemblyVersion": "8.5.0.3",
+            "fileVersion": "8.5.0.3"
+          }
+        }
+      },
+      "IKVM.OpenJDK.Charsets/8.5.0.3": {
+        "runtime": {
+          "IKVM.OpenJDK.Charsets.dll": {
+            "assemblyVersion": "8.5.0.3",
+            "fileVersion": "8.5.0.3"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IKVM.Runtime.JNI/8.5.0.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IKVM.OpenJDK.Core/8.5.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IKVM.Runtime/8.5.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IKVM.OpenJDK.Util/8.5.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IKVM.OpenJDK.Text/8.5.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IKVM.OpenJDK.Security/8.5.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IKVM.OpenJDK.XML.API/8.5.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IKVM.OpenJDK.Naming/8.5.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IKVM.OpenJDK.SwingAWT/8.5.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IKVM.OpenJDK.Beans/8.5.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IKVM.OpenJDK.Media/8.5.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IKVM.AWT.WinForms/8.5.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IKVM.OpenJDK.Charsets/8.5.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

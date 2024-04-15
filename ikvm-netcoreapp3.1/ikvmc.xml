@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ikvmc</name>
+    </assembly>
+    <members>
+        <member name="P:IKVM.Internal.TypeWrapper.TypeAsArrayType">
+            <summary>Use this if the type is used as an array or array element</summary> 
+        </member>
+    </members>
+</doc>
